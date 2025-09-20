@@ -1,3 +1,7 @@
+## 👨‍🎓 Alumnos
+- Cristian Ricardo Morales Damasco (22200029)  
+- Jefferson Marquez Rosasco (22200118)  
+
 # Cuentas bancarias
 Modelado de cuentas bancarias en Kotlin aplicando Herencia y Encapsulamiento.
 
